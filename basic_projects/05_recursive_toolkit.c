@@ -59,7 +59,7 @@ printf("Sum of Digits: %d \n", result);
 
 
 case 5:
-printf("Enter a number:");
+printf("Enter two numbers : ");
 scanf("%d %d" , &a,&b);
 swap(&a,&b);
 printf("After swapping: a=%d, b=%d \n" ,a,b);
