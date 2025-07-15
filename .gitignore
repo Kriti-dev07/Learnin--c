@@ -1,22 +1,16 @@
-# =============================
-# Windows system files
-# =============================
+
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 *.lnk
 
-# =============================
-# Visual Studio Code
-# =============================
+
 .vscode/
 .history/
 *.code-workspace
 
-# =============================
-# C / C++ build files
-# =============================
+
 *.o
 *.obj
 *.exe
@@ -24,34 +18,23 @@ $RECYCLE.BIN/
 *.dll
 *.a
 
-# =============================
-# Python cache files (if using Python too)
-# =============================
+
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# =============================
-# Logs and temporary files
-# =============================
+
 *.log
 *.tmp
 *.bak
 *.swp
 
-# =============================
-# Git
-# =============================
+
 .git/
 .gitignore
 
-# =============================
-# Misc editor/workspace files
-# =============================
+
 *.sublime-workspace
 *.sublime-project
 
-# =============================
-# End of .gitignore
-# =============================
